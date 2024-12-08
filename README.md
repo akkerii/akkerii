@@ -46,7 +46,7 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 - 📧 **Email**: saifallah.chaffarakkeri@esprit.tn  
 - 💼 **LinkedIn**: [linkedin.com/in/saif-chaffar-akkeri](https://www.linkedin.com/in/saif-chaffar-akkeri)  
-- 📱 **Phone**: [+216 54003125]  
+- 📱 **Phone**: +216 54003125
 
 ---
 
