@@ -1,4 +1,4 @@
-# Hi there! I'm Saif  
+# Hi there! I'm bouzezi  
 Welcome to my GitHub profile! I'm a Cloud and DevOps Engineering student passionate about designing scalable infrastructure and automating workflows. I enjoy solving challenges, learning new tools, and working on innovative projects. Here's a bit about me:
 
 ---
@@ -44,8 +44,7 @@ Here are a few highlights of my work:
 ## 📫 Contact Me  
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
 
-- 📧 **Email**: saifallah.chaffarakkeri@esprit.tn  
-- 💼 **LinkedIn**: [linkedin.com/in/saif-chaffar-akkeri](https://www.linkedin.com/in/saif-chaffar-akkeri)  
+- 📧 **Email**: bouzezi.tech@gmail.com 
 - 📱 **Phone**: +216 54003125
 
 ---
