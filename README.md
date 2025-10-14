@@ -44,7 +44,7 @@ Here are a few highlights of my work:
 ## 📫 Contact Me  
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
 
-- 📧 **Email**: bouzezi.tech@gmail.com 
+- 📧 **Email**: saifallah.chaffarakkeri@esprit.tn
 - 📱 **Phone**: +216 54003125
 
 ---
