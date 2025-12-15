@@ -1,4 +1,4 @@
-# Hi there! I'm Amine  
+# Hi there! I'm akkeri  
 Welcome to my GitHub profile! I'm a Cloud and DevOps Engineering student passionate about designing scalable infrastructure and automating workflows. I enjoy solving challenges, learning new tools, and working on innovative projects. Here's a bit about me:
 
 ---
