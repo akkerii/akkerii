@@ -46,7 +46,7 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 - 📧 **Email**: bouzezi.tech@gmail.com
 
-- 📱 **Phone**: +216 54003125
+
 
 ---
 
