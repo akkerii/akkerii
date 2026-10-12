@@ -1,4 +1,4 @@
-# Saif Allah Chaffar Akkeri
+
 
 DevOps engineer based in Tunisia. CKA certified. I run Kubernetes in production, write Terraform for AWS and GCP, and build CI/CD pipelines that teams actually want to use.
 
@@ -23,5 +23,4 @@ Currently freelancing — multi-cloud infrastructure, GitOps workflows (ArgoCD, 
 
 ## Contact
 
-- [linkedin.com/in/saif-akkeri](https://www.linkedin.com/in/saif-akkeri/)
-- sayf.akkeri@gmail.com
+
